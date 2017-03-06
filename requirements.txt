@@ -33,3 +33,6 @@ pydocstyle==1.0.0
 requests==2.11.1
 
 wrapt==1.10.8
+
+amqp==2.1.4
+anyjson==0.3.3
